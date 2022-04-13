@@ -17,7 +17,6 @@
 
 </br>
 
-
 # Backend Architecture
 <img width="991" alt="image" src="https://user-images.githubusercontent.com/98023289/162667351-94a4e26d-26cb-47b0-852c-c740fe3ae801.png">
 
@@ -37,3 +36,8 @@
 - 데이터베이스 : MySQL
 - 협업툴 : Git, Github
 - 커뮤니케이션툴 : Notion, Slack
+
+
+#내가 작업한 부분 
+
+ 강아지강아지 
